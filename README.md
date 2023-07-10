@@ -1,5 +1,9 @@
-# Use python request to download you img on hackmd workspace
+# HACKMD-IMG-DOWNLOADER
 
+## Intro
+
++ Use python request to download you img on hackmd workspace
++ remember to install `request` module on python
 ## Steps
 
 0. Create your token from hackmd, and put your token in `download_hackmd_img.py`
