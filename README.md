@@ -16,9 +16,9 @@
 $ mkdir downloaded_images
 ```
 
-[token img](./imgs/tokenImg.jpg)
+![token img](./imgs/tokenImg.jpg)
 
-[url list](./imgs/urlList.jpg)
+![url list](./imgs/urlList.jpg)
 
 2. Use [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=zh-TW) plugin on "chrome browser"
 
