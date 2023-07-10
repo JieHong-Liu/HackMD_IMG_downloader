@@ -10,7 +10,7 @@
 
 [Create tutorial](https://hackmd.io/@hackmd-api/developer-portal/https%3A%2F%2Fhackmd.io%2F%40hackmd-api%2Fhow-to-issue-an-api-token?utm_source=settings-api&utm_medium=inline-cta)
 
-1. Create a directory with the following downloaded images, put your token in script, create your download url list
+1. Create a directory with the following downloaded images, put your token in script, write down your download url list in `hackmd_image_urls.txt`
 
 ```
 $ mkdir downloaded_images
